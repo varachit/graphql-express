@@ -27,4 +27,4 @@ Run the server with the following command:
 npm run start
 ```
 
-Enjoy the consuming API at `http://localhost:3000/graphql`.
+Enjoy consuming API at `http://localhost:3000/graphql`.
