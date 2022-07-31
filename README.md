@@ -4,8 +4,8 @@ This project contains the implementation of the Apollo Express Server with Graph
 - GraphQL Data Validation at Schema Level using GraphQL Directive
 
 # Requirements
-node=18.1.0
-npm=8.8.0
+- node=18.1.0
+- npm=8.8.0
 
 # Installation
 - nvm - Node Version Manager (Optional)
