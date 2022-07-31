@@ -1,5 +1,5 @@
 # Apollo Sever Express and GraphQL
-This project contains the implementation of the Apollo Express Server with GraphQL and the following specific topic:
+This project contains the implementation of the Apollo Express Server with GraphQL and the following specific topics:
 - GraphQL Query, Mutation and Subscription
 - GraphQL Data Validation at Schema Level using GraphQL Directive
 
